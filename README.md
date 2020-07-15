@@ -4,8 +4,8 @@ How to have ubuntu running within virtualbox with network access between the hos
 <br/>
 
 prerequisites :<br/>
-- download and install virtualbox 5.2<br/>
-- download the iso image of ubuntu 16.04<br/>
+- download and install virtualbox 5.2 (available here for instance : https://www.virtualbox.org/wiki/Download_Old_Builds_5_2)<br/>
+- download the iso image of ubuntu 16.04 (available here for instance : https://releases.ubuntu.com/16.04/)<br/>
 <br/>
 The 3 main steps are :<br/>
 - configure a virtualbox host-guest network<br/>
