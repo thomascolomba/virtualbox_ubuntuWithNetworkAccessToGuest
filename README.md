@@ -62,7 +62,7 @@ Finally click [OK]<br/>
 3.4)When the ubuntu virtual machine is started, open a terminal and execute the "ifconfig" command. One of the entries will show the ip of ubuntu through virtualbox (it begins with "192.168"). Remember that ip address.<br/>
 ![alt text](https://github.com/thomascolomba/virtualbox_ubuntuWithNetworkAccessToGuest/blob/master/step3-4.png?raw=true)<br/><br/>
 
-<br/>
-4) From outside virtualbox, open a new terminal and try to ping the ubuntu virtual machine with the ip address you remembered from the previous step (in my case I executed "ping 192.168.41.3").<br/>
+4)From outside virtualbox, open a new terminal and try to ping the ubuntu virtual machine with the ip address you remembered from the previous step (in my case I executed "ping 192.168.41.3").<br/>
 If the ping command show that it receives packets then you have successfully configured virtualbox and your virtual machine.<br/>
 ![alt text](https://github.com/thomascolomba/virtualbox_ubuntuWithNetworkAccessToGuest/blob/master/step4-1.png?raw=true)<br/><br/>
+And there you are, your virtualbox/ubuntu is ready communicate with your host machine :)
