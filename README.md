@@ -1,5 +1,3 @@
-# virtualbox_ubuntuWithNetworkAccessToGuest
-
 How to have ubuntu running within virtualbox with network access between the host and the ubuntu guest.<br/>
 <br/>
 
